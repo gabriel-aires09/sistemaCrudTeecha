@@ -1,4 +1,6 @@
-![png-clipart-java-development-kit-java-runtime-environment-java-platform-standard-edition-exploit-java-text-computer](https://github.com/gabriel-aires09/sistemaCrudTeecha/assets/90778217/4ad15d9f-77c3-4fc0-b067-baefb1881745)
+<p align="center">
+	<img width="200" alt="JavaFx Logo" src="https://i.imgur.com/vSQOa0U.png">
+</p>
 
 
 # Sistema CRUD do Teechá
